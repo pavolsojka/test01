@@ -15,6 +15,7 @@ public class NacitanieVstupuVynimka {
         if(vek < 0) {
 
             System.out.println("Zadali ste zaporny vek");
+            System.out.println("Zadali ste zaporny vek");
             System.exit(1);
         }
         sc.close();
